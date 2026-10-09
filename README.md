@@ -1,4 +1,4 @@
-# Marketing A/B Testing — Conversion Impact Analysis
+# Marketing A/B Testing Conversion Impact Analysis
 
 ## Business problem
 Evaluate whether users assigned to the Ad group converted at a higher rate than users assigned to the PSA control group, quantify uncertainty, and assess whether the result could be commercially attractive under explicit assumptions.
